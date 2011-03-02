@@ -1,0 +1,5 @@
+/Users/user1/Desktop/Tutorials/Pong/Shared/Game.m: In function '-[Game pause]':
+/Users/user1/Desktop/Tutorials/Pong/Shared/Game.m:291: warning: 'PauseScreen' may not respond to '-showAnimated:'
+/Users/user1/Desktop/Tutorials/Pong/Shared/Game.m:291: warning: (Messages without a matching method signature
+/Users/user1/Desktop/Tutorials/Pong/Shared/Game.m:291: warning: will be assumed to return 'id' and accept
+/Users/user1/Desktop/Tutorials/Pong/Shared/Game.m:291: warning: '...' as arguments.)
